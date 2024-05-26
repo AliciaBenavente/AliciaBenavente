@@ -14,3 +14,5 @@ For you to **know a bit more about me**:
 - ⚡ Fun fact: I don't consider myself a freak, but I've seen Star Wars movies at least ten times each
 
 If you want to know more about me, you already know how to contact!
+
+PS: I just finished my first project with 4GeeksAcademy in the pre-work: 4geeks.com/es/project/postcard 
