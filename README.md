@@ -11,7 +11,7 @@ For you to **know a bit more about me**:
 - 💬 Ask me about whatever you prefer, but better if I know the answer 😜
 - 📫 How to reach me: (https://www.linkedin.com/in/alicia-benavente-garcia)
 - 👀 Curiosity about me: 🏋️‍♀️ gym y 🧖‍♀️ ñam 
-- ⚡ Fun fact: I don't consider myself a freek, but I've seen Star Wars movies at least ten times each
+- ⚡ Fun fact: I don't consider myself a freak, but I've seen Star Wars movies at least ten times each
 
 If you want to know more about me, you already know how to contact!
 
