@@ -1,13 +1,11 @@
 # About me 👋
 
-Hello, and welcome to my GitHub profile. I hope you are doing much better than me, as I just started in this new and giant world...
-Wish me luck to understand all that is coming 😬
+Hello, and welcome to my GitHub profile. I am a Full Stack Web Developer, and I don't only enjoy it, but love it. It has become an addiction 😎
 
 For you to **know a bit more about me**:
 
-- 🔭 I’m currently working as a Lab Technician in a research group 🥼🦠🔬
-- 🌱 I’m currently learning to program (just started) and, in my free time, to dance Salsa and Bachata 💃
-- 🤔 I’m not yet looking for help with anything, but I can predict I'll need **all the help I can get** 😁
+- 🔭 I’m a Lab Technician 🥼🦠🔬 apart from being Full Stack Web Developer 💻
+- 🌱 Always learning something new about a program language (I know, HTML and CSS are not programming languages 😁), and in my free time, to dance Salsa and Bachata 💃
 - 💬 Ask me about whatever you prefer, but better if I know the answer 😜
 - 📫 How to reach me: (https://www.linkedin.com/in/alicia-benavente-garcia)
 - 👀 Curiosity about me: 🏋️‍♀️ gym y 🧖‍♀️ ñam 
@@ -15,5 +13,5 @@ For you to **know a bit more about me**:
 
 If you want to know more about me, you already know how to contact!
 
-PS: I just finished my first project with 4GeeksAcademy in the pre-work: 4geeks.com/es/project/postcard 
-    And also my Instagram Photo Feed: [4geeks.com/project/instagram-feed](https://github.com/AliciaBenavente/Instagram-Feed-Proyect-Alicia)
+PS: I want to share this project I've been developing along with Marcos Estevez and David Alonso, because we are so excited about implementing it!
+    **https://github.com/AliciaBenavente/MasBuenosQueElPan**
