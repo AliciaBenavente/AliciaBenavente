@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliciabenavente" alt="aliciabenavente" /></a> </p>
 
-- 🔭 I’m currently working on [salo-app](https://github.com/AliciaBenavente/salo-app)
+- 🔭 I’m currently working on my portfolio after a big break!!
 
 - 🌱 Now focus on learning **Typescrypt, Django and React Native**, and in my free time, to dance Salsa and Bachata (as leader) 💃 
 
